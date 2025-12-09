@@ -19,7 +19,8 @@ angezeigt.
 Diese Daten werden über die **Amazon Product Advertising API (PA-API)** bezogen.
 Die Produktbilder und Links werden unverändert dargestellt, und beim Klick auf den Link
 wird der Nutzer direkt zur entsprechenden Produktseite auf Amazon weitergeleitet.
-So erhält der Nutzer eine Breite Auswahl an verschiedenen Produkten. Diese Produkte werden dem Nutzer auf spielerische Art und Weise nähergebracht.
+So erhält der Nutzer eine Breite Auswahl an verschiedenen Produkten. Diese Produkte werden dem Nutzer auf spielerische Art und Weise nähergebracht. 
+So erhält er potenziell neue Ideen für Geschenke oder auch für sich selbst.
 
 ## Zweck dieser Seite
 
